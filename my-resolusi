@@ -4,5 +4,20 @@ My resolusi
 - membuat forum diskusi
 - membuat sibuk
 
+Git Command (local)
+$ git init
+$ git add <file(s)>
+$ git status
+$ git commit
+$ git config
+$ git branch
+$ git help
+$ ...
+
+3 area pada repo git
+1. working tree
+2. Staging area
+3. History
+
 ttd
 Dika WPU
